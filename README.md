@@ -1,77 +1,40 @@
-<div align="center">
+# Store E-Commerce
 
-<h3>
+### Home
+![image](https://user-images.githubusercontent.com/69859248/132393695-4633f4ad-b6f8-4502-8208-37645a1c9744.png)
 
-![PRINTS](./layouts/logo.png)
-
-Desafio realizado no Programa Ignite - Trilha ReactJS - da [Rocketseat], utilizando **HTML**, **CSS**, **JAVASCRIPT**, **ReactJS** e **Typescript**.
-
-</h3>
-
-  <img src="./layouts/function.gif" alt="demo-web" height="425">
-
-</div>
-
-<br>
-
-## 📚 **Sobre**
-
-Aplicação de carrinho de compras de um ecommerce de tênis. Desafio consiste em criar um hook que acrescente as seguintes funcionalidades:
-- Adicionar um novo produto ao carrinho;
-- Remover um produto do carrinho;
-- Alterar a quantidade de um produto no carrinho;
-- Cálculo dos preços sub-total e total do carrinho;
-- Validação de estoque;
-- Exibição de mensagens de erro;
-
-<br>
-
-### 📌  **Tecnologias utilizadas**
-- React
-- Yarn
-- Axios
-- React-Toastify
-- Styled-components
-- Polished
-- TypeScript
-
-<br>
-<br>
-
-### 🚀 **Mão na massa**
-
-```bash
-# Clone este repositório
-$ git clone https://github.com/Joao-Augusto-Oliveira/desafio2ignite
-
-# Acesse a pasta do projeto no terminal/cmd
-$ cd desafio2ignite
-
-# Instale as dependências
-$ yarn
-
-# Execute a FAKE Api com JSON Server
-$ yarn server
-
-# Execute a aplicação em modo de desenvolvimento
-$ yarn start
+### Shopping Cart
+![image](https://user-images.githubusercontent.com/69859248/132393796-111e5a3b-d3f7-474d-8174-0447637832be.png)
 
 
-```
+## Used Libraries
+ * Styled-Componentes
+ * Axios
+ * React Icons
+ * React Toastify
+ * Typescript
 
-<br>
-<br>
+## APP in Production
 
-<h3 align="center">
-Feito com 💜 por <a href="https://www.linkedin.com/in/joão-augusto-oliveira-dos-santos-9b0693195">João Augusto</a>
-<br><br>
-
-  <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
-</a>
-</h3>
-
-<!-- Links -->
-
-[Rocketseat]: https://rocketseat.com.br/
+Click to see the application running [Click here](https://e-commerce-xi-inky.vercel.app/)
 
 
+## Prepare development environment
+
+Before developing or deploying the code, you need to install the dependencies using the command
+
+### `npm install`
+### ou
+### `yarn`
+
+## Developing the code
+
+To start the application for development, run the command: 
+
+### `npm start`
+### ou
+### `yarn start`
+
+And open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.
